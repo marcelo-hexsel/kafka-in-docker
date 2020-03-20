@@ -33,5 +33,9 @@
     "jest": "^24.9.0",
     "concurrently": "^5.0.0",
     "eslint": "^6.4.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.3",
+    "kafka-node": "^5.0.0"
   }
 }
